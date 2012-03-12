@@ -1,0 +1,5 @@
+*.exe
+_build
+_tracks
+*~
+*.log
