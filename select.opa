@@ -14,7 +14,7 @@ import stdlib.themes.bootstrap
  *           It has a single argument, which is the selected value.
  * @return The function returns XHTML snippet with the selection among given options.
  *
- * Exercises:
+ * EXERCISES:
  *  - As it is this function just renders the options with a default conversion
  *    to xhtml (which btw. can be customized with xmlizer functions!); what would
  *    you do if you need more control over the XHTML generated for every option?
